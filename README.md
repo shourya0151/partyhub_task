@@ -1,7 +1,7 @@
 
 # Decoration Visualizer
 
-This workflow uses Flux-Fill-Pro to inpaint or extend images, then sends the result to Magic Image Refiner for final polishing and detail enhancement. It produces smooth, high-quality outputs by combining the strengths of both models.
+This workflow utilizes Flux-Fill-Pro to inpaint or extend images, creating seamless decorations for a Barbie and unicorn-themed setup. It then enhances the details and overall quality using Magic Image Refiner, ensuring a polished and visually stunning result. By combining the strengths of both models, this process produces smooth, high-quality designs, perfect for crafting dreamy and enchanting decorations.
 
 
 ## Sample Input and Output

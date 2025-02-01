@@ -3,7 +3,7 @@
 <style>
   .imag{
     display: flex;
-    aligh-items: center;
+    justify-content: center;
   }
 </style>
 # Decoration Visualizer
